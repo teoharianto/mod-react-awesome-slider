@@ -1,16 +1,16 @@
 {
-  "_from": "react-awesome-slider",
-  "_id": "react-awesome-slider@4.0.2",
+  "_from": "modified-react-awesome-slider",
+  "_id": "modified-react-awesome-slider@1.0.0",
   "_inBundle": false,
-  "_integrity": "sha512-+ogIg8hbmq1DaA7mBfCfuWQgyuruhBQXp6IVIIPL1E4S3P3dbk7VW37KgWiv0deO9/ltilHdOmk8H3EEF/9xJg==",
-  "_location": "/react-awesome-slider",
+  "_integrity": "",
+  "_location": "/modified-react-awesome-slider",
   "_phantomChildren": {},
   "_requested": {
     "type": "tag",
     "registry": true,
-    "raw": "react-awesome-slider",
-    "name": "react-awesome-slider",
-    "escapedName": "react-awesome-slider",
+    "raw": "modified-react-awesome-slider",
+    "name": "modified-react-awesome-slider",
+    "escapedName": "modified-react-awesome-slider",
     "rawSpec": "",
     "saveSpec": null,
     "fetchSpec": "latest"
@@ -19,22 +19,22 @@
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/react-awesome-slider/-/react-awesome-slider-4.0.2.tgz",
-  "_shasum": "df8ec4146de5f78248024c559fedb8e1e70b9057",
-  "_spec": "react-awesome-slider",
+  "_resolved": "",
+  "_shasum": "",
+  "_spec": "modified-react-awesome-slider",
   "_where": "A:\\Next Js App\\Tikala Project\\tikalaweb",
   "author": {
     "name": "Rafael Caferati"
   },
   "bugs": {
-    "url": "https://github.com/rcaferati/react-awesome-slider/issues"
+    "url": ""
   },
   "bundleDependencies": false,
   "dependencies": {
     "web-animation-club": "^0.6.0"
   },
   "deprecated": false,
-  "description": "React Awesome Slider is a 60fps performant, extendable, highly customisable, production ready React Component that renders a media (image/video) gallery slider carousel.",
+  "description": "modified react awesome slder",
   "devDependencies": {
     "@babel/cli": "^7.8.3",
     "@babel/core": "^7.8.3",
@@ -81,7 +81,7 @@
     "webpack-cli": "^3.3.10",
     "webpack-dev-server": "^3.9.0"
   },
-  "homepage": "https://github.com/rcaferati/react-awesome-slider",
+  "homepage": "https://github.com/teoharianto/mod-react-awesome-slider",
   "jest": {
     "setupFilesAfterEnv": [
       "<rootDir>/configs/testConfig.js"
@@ -116,7 +116,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rcaferati/react-awesome-slider.git"
+    "url": "git+hhttps://github.com/teoharianto/mod-react-awesome-slider.git"
   },
   "resolutions": {
     "babel-core": "7.0.0-bridge.0"
@@ -132,5 +132,5 @@
     "start": "webpack-dev-server -d --config webpack.demo.config.js",
     "test": "jest"
   },
-  "version": "4.0.2"
+  "version": "1.0.0"
 }
