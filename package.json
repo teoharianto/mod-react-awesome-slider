@@ -112,5 +112,5 @@
     "start": "webpack-dev-server -d --config webpack.demo.config.js",
     "test": "jest"
   },
-  "version": "1.1.0"
+  "version": "1.1.2"
 }
