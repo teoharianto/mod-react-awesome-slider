@@ -5,13 +5,13 @@
   "main": "dist/index.js",
   "author": "Shd Gry",
   "license": "MIT",
-  "homepage": "https://github.com/teoharianto/modified-react-awesome-slider",
+  "homepage": "https://github.com/teoharianto/mod-react-awesome-slider",
   "repository": {
     "type": "git",
-    "url": "https://github.com/teoharianto/modified-react-awesome-slider"
+    "url": "https://github.com/teoharianto/mod-react-awesome-slider"
   },
   "bugs": {
-    "url": "https://github.com/teoharianto/modified-react-awesome-slider/issues"
+    "url": "https://github.com/teoharianto/mod-react-awesome-slider/issue"
   },
   "scripts": {
     "start": "webpack-dev-server -d --config webpack.demo.config.js",

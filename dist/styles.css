@@ -32,8 +32,8 @@
   --slider-height-percentage: 60%;
   --loader-bar-color: #851515;
   --loader-bar-height: 6px;
-  --control-button-width: 6%;
-  --control-button-height: 25%;
+  --control-button-width: 4%;
+  --control-button-height: 10%;
   --control-button-opacity: 1;
   --control-button-hover-opacity: 0.75;
   --control-button-background: #a07e3f;
